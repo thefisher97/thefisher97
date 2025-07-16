@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ernesto Fisher
 
-<!--
-**thefisher97/thefisher97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!  
+Soy Licenciado en Desarrollo de Software por la UTP y actualmente trabajo como Arquitecto de Soluciones en el Aeropuerto Internacional de Tocumen.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Desarrollador BackEnd apasionado por crear soluciones eficientes y escalables.
+- 👔 También me desempeño como Project Manager, coordinando equipos y asegurando la calidad en cada entrega.
+- 🛠️ Experiencia sólida en:
+  - **PHP & Laravel**
+  - **HTML, CSS, JavaScript**
+  - Gestión de proyectos y equipos de desarrollo
+
+## 🌱 Siempre aprendiendo
+
+Me gusta mantenerme actualizado en nuevas tecnologías y metodologías, ¡la innovación es parte de mi día a día!
+
+## 📫 ¿Quieres contactarme?
+
+- [LinkedIn](https://www.linkedin.com/in/ernesto-fisher-114780173/)
+
+---
+
+> “El desarrollo de software no solo se trata de escribir código, sino de crear soluciones que impacten positivamente en la vida de las personas.”
+
+¡Gracias por visitar mi perfil! 🚀
